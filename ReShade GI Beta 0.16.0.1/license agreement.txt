@@ -1,0 +1,26 @@
+The ReShade RT Global Illumination (here and hereafter referred to as "RT shader") are the 
+intellectual property of Pascal Gilcher and the copyright belongs to him.
+
+It is forbidden to (re-)distribute the RT shader as is or modified in parts or in its entirety in any way
+without explicit written permission by Pascal Gilcher. You may not use any parts of its source code
+in your own work, claim to be its author or publish derived code under your own or Pascal Gilcher's name.
+
+This software is provided 'as is' and comes without warranty of any kind including, but not limited to, 
+the implied warranty that it works the way intended or advertised. 
+In no event is Pascal Gilcher liable to you for any damage that arises out of the use or malfunction 
+of the RT shader including, but not limited to, hardware failure, loss of income and negative impact 
+on your gaming experience. The entire risk as to every aspect of the RT shader is with you and you alone.
+
+In case any part of this agreement should for any reason be considered invalid, illegal or be deemed unenforceable, 
+Pascal Gilcher shall undertake to replace the aforementioned part by a term that comes closest to the intended meaning 
+and is all valid, legal and enforceable. 
+
+The remaining parts of this agreement are therefrom unaffected in their validity.
+
+By installing, downloading, storing a copy of or using the RT shader you agree to all of the terms and conditions. 
+They can and will, if deemed necessary by Pascal Gilcher, be enforced by going to law.
+
+
+
+
+
